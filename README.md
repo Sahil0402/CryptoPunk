@@ -33,13 +33,6 @@ The project lays the foundation for a versatile and user-friendly NFT marketplac
 - **Extended Functionality:** Consider adding features like auctions and lending for NFTs.
 - **Community Collaboration:** Encourage open-source contributions to expand the project's capabilities.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 We extend our gratitude to ThirdWeb, Infura, Cranq, Metamask, Sanity, Next.js, and Vercel for their tools and services that played a crucial role in developing this multi-chain NFT marketplace and digital currency exchange platform.
-
-For in-depth technical details, please refer to the relevant sections in the documentation.
-
